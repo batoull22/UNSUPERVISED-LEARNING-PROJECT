@@ -1,4 +1,4 @@
-#Arabic dialects
+# Arabic dialects
 
 ## Introduction
 This work that serves the Arabic language. By classifying Arabic dialects in social media through NLP and unsupervised machine learning algorithms. Our Model analyzes texts on social media then categories them into the major Arabic dialects (Nilotic, Gulf, Levantine, or Moroccan). The model reached 0.75 accuracy.
@@ -35,5 +35,5 @@ Enter URL  and hit Predict.
 If everything goes well, you should be able to see the predicted Verification on the HTML page! check the output here: http://127.0.0.1:5000/predict .
 
 <p align="center">
-  <img src="user_ui.png" width="350" title="UI">
+  <img src="ui.png" width="350" title="UI">
 </p>
